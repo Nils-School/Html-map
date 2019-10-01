@@ -1,0 +1,10 @@
+div {
+	border:20px;
+	border-style: dashed;
+	border-color:red;
+	background-color:#fff3e6;
+	width: 300px;
+	height: 200px;
+	margin:40px;
+	padding:20px;
+}
